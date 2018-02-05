@@ -1,0 +1,16 @@
+{
+  "name": "wk01-05-foldingstrings",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha ./spec",
+    "lint": "eslint ./"
+  },
+  "devDependencies": {
+    "chai": "^1.8.1",
+    "eslint": "^3.19.0"
+  },
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
